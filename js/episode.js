@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://proxy.techzbots1.workers.dev/?u=";
+const ProxyApi = "https://wispy-truth-ac6b.kayyumkhan342001.workers.dev/?u=";
 const animeapi = "/anime/";
 const episodeapi = "/episode/";
 const dlapi = "/download/";
