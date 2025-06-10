@@ -6,7 +6,7 @@ const recommendationsapi = "/recommendations/";
 
 // Api Server Manager
 
-const AvailableServers = ['https://api3.kayyumkhan342001.workers.dev/]
+const AvailableServers = ['https://api3.kayyumkhan342001.workers.dev/']
 
 function getApiServer() {
     return AvailableServers[Math.floor(Math.random() * AvailableServers.length)]
